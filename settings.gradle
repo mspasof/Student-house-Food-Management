@@ -1,0 +1,5 @@
+rootProject.name = 'application'
+include 'authentication'
+include 'foodmanagement'
+include 'gateway'
+
